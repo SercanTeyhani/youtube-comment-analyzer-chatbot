@@ -272,13 +272,7 @@ if video_url:
         # Preprocessing for LDA and BERTopic analyses
         st.sidebar.subheader("📝 Comment Topic Analysis (LDA & BERTopic)")
         nltk.download('punkt', quiet=True)
-        try:
-            nlp = spacy.load("en_core_web_sm")
-        except OSError:
-            st.sidebar.warning("Spacy 'en_core_web_sm' model not found. Downloading... This may take a while.")
-            import subprocess
-            subprocess.run(["python", "-m", "spacy", "download", "en_core_web_sm"])
-            nlp = spacy.load("en_core_web_sm")
+        
 
         def preprocess(text):
             if isinstance(text, str):
