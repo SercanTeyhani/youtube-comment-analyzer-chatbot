@@ -1,7 +1,8 @@
 # 📺 YouBot — YouTube Comment Analysis & Chatbot
 
+YouBot is a Streamlit-powered web application designed to help users analyze YouTube video comments using cutting-edge Natural Language Processing (NLP) techniques, including BERTopic and sentiment analysis (VADER & TextBlob).
 
-YouBot is a Streamlit web application that empowers users to analyze YouTube video comments with advanced natural language processing (NLP) techniques and interact with a chatbot powered by Google's Gemini-1.5-Flash model. Gain insights into public sentiment, identify key discussion topics, and ask specific questions about the comments.
+In addition to exploratory data insights, YouBot features a conversational assistant powered by Google's Gemini 1.5 Flash model, integrated with a Retrieval-Augmented Generation (RAG) pipeline. This allows users to:
 
 ---
 ## 🌐 Live Demo
