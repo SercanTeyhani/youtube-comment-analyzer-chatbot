@@ -7,7 +7,7 @@ YouBot is a Streamlit web application that empowers users to analyze YouTube vid
 ## 🌐 Live Demo
 
 🖥️ Try the application here:  
-👉 [https://data-mentor.streamlit.app/](https://data-mentor.streamlit.app/)
+👉 [https://youbot.streamlit.app/](https://youbot.streamlit.app/)
 
 ## ✨ Features
 
