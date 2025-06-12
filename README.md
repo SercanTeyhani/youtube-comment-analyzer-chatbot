@@ -4,9 +4,10 @@
 YouBot is a Streamlit web application that empowers users to analyze YouTube video comments with advanced natural language processing (NLP) techniques and interact with a chatbot powered by Google's Gemini-1.5-Flash model. Gain insights into public sentiment, identify key discussion topics, and ask specific questions about the comments.
 
 ---
-🌐 Live Demo
-🖥️ Try the application here:
-👉 https://data-mentor.streamlit.app/
+## 🌐 Live Demo
+
+🖥️ Try the application here:  
+👉 [https://data-mentor.streamlit.app/](https://data-mentor.streamlit.app/)
 
 ## ✨ Features
 
