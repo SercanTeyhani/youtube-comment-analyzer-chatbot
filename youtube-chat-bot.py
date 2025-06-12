@@ -272,7 +272,7 @@ if video_url:
         # Preprocessing for LDA and BERTopic analyses
         st.sidebar.subheader("📝 Comment Topic Analysis (LDA & BERTopic)")
         nltk.download('punkt', quiet=True)
-        
+        nlp = spacy.load("en_core_web_sm")
 
         def preprocess(text):
             if isinstance(text, str):
