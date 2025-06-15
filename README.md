@@ -49,3 +49,8 @@ In addition to exploratory data insights, YouBot features a conversational assis
 - LangChain — For building the AI chatbot.  
 - Google Gemini API — Powering the intelligent chatbot responses.  
 - Google YouTube Data API v3 — For fetching YouTube comments.
+
+  ## 📸 Project Screenshots
+
+![YouTube Comment Analysis 1](screenshots/1.png)  
+![YouTube Comment Analysis 2](screenshots/youtube-1.png)
