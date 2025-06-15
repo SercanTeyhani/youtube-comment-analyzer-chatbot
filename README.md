@@ -54,3 +54,4 @@ In addition to exploratory data insights, YouBot features a conversational assis
 
 ![YouTube Comment Analysis 1](screenshots/1.png)  
 ![YouTube Comment Analysis 2](screenshots/youtube-1.png)
+![YouTube Comment Analysis 1](screenshots/7.png) 
