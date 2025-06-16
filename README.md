@@ -10,6 +10,10 @@ In addition to exploratory data insights, YouBot features a conversational assis
 🖥️ Try the application here:  
 👉 [https://youbot.streamlit.app/](https://youbot.streamlit.app/)
 
+🖥️Read the full article on Medium:
+
+👉 https://medium.com/@sercanteyhani/youbot-understanding-youtube-comments-and-chatting-intelligently-an-engineers-perspective-71fc82164a26
+
 ## ✨ Features
 
 - **YouTube Comment Fetching:**  
